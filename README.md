@@ -5,7 +5,8 @@ Welcome to my profile. I'm a college student passionate about technology and lea
 ## About Me
 
 - 🎓 I'm currently pursuing a degree in Information Technology at King Mongkut's Institute of Technology Ladkrabang.
-- 💻 I'm interested in web development, mobile app development, UX/UI designing, and 3D modeling.
+- 💻 I'm interested in web development, mobile app development, and UX/UI designing.
+- 🌱 I'm currently honing my skills, particularly in computer vision and AI.
 - 📫 How to reach me: [Facebook](https://www.facebook.com/profile.php?id=100004291367649) and [Gmail](mailto:kanlayakorn.yeenang@gmail.com)
 - 😄 Pronouns: She/Her/Hers.
 
@@ -23,6 +24,6 @@ Here are some of the skills I have acquired during my college journey:
 
 - Programming languages: Python, Java, JavaScript, C#
 - Technologies/Frameworks: HTML, CSS, React, Vue.js, MySQL
-- Soft skills: Fast learner, Attention to detail, Teamwork
+- Soft skills: Fast learner, Attention to detail
 
 ---
