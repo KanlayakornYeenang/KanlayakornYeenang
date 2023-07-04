@@ -14,7 +14,7 @@ Welcome to my profile. I'm a college student passionate about technology and lea
 
 Here are a few projects I have worked on:
 
-1. **IT Food Hub**: IT Food Hub is a web application designed for people within the Faculty of Information Technology. It allows users to order meals from the cafeteria conveniently.
+1. **IT Food Hub**: IT Food Hub is a web, is design for people within the Faculty of Information Technology. It allows users to order meals from the cafeteria conveniently.
    - Repository: [Link to the repository](https://github.com/KanlayakornYeenang/IT-Food-Hub)
    - Technologies used: Vue.js, Vuetify, Express, Socket.io, MySQL
 
